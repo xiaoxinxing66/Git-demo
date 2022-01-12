@@ -7,5 +7,5 @@ hello GIT hello Wangxin
 hello GIT hello Wangxin
 hello GIT hello Wangxin
 hello GIT hello Wangxin
-hello GIT hello Wangxin    3333333333
-hello GIT hello Wangxin    2222222222
+hello GIT hello Wangxin    33333
+hello GIT hello Wangxin    22222
