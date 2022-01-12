@@ -1,4 +1,4 @@
-hello GIT hello Wangxin
+hello GIT hello Wangxin    hot-fix.txt
 hello GIT hello Wangxin
 hello GIT hello Wangxin
 hello GIT hello Wangxin
